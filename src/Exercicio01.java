@@ -29,7 +29,6 @@ public class Exercicio01 {
         Locale.setDefault(Locale.US);
         System.out.printf("US decimal point: %.3f%n", measure);
 
-
     }
 
 }
